@@ -1,0 +1,9 @@
+[[Wayland]]
+arch = "x86_64"
+git-tree-sha1 = "3e07cc765ec5aa5b54ada6f299a18e373b11d282"
+libc = "glibc"
+os = "linux"
+
+    [[Wayland.download]]
+    sha256 = "fb1acfa64ddafd852094f7b693481d4cc6b287b9c07c7d1a59d4bbb0516a5b2a"
+    url = "https://github.com/jwahlstrand/Wayland_jll.jl/releases/download/Wayland-v1.23.0+0/Wayland.v1.23.0.x86_64-linux-gnu.tar.gz"
